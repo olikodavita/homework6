@@ -1,0 +1,126 @@
+
+
+
+
+  .h1 {   position: absolute;
+width: 191px;
+height: 43px;
+left: 328px;
+top: 92px;
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #000000;
+ margin-top: 0;
+ margin-bottom: 15px;
+ box-sizing: border-box;
+ display: flex;
+ }
+ body {
+    background:  #FDFDFD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    }
+
+.title_ label {
+ display: block;
+
+font-family: FiragGo-Regular;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+margin-bottom: 5px;
+}
+.title_ input {
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+width: 616px;
+
+height: 12px;
+
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+}
+ 
+
+.aboutyou input {
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+
+width: 616px;
+
+height: 80px;
+font-family: FiragGo-Regula;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #E7E7E7;
+
+padding-top: 18px;
+padding-left: 18px;
+padding-right: 18px;
+padding-bottom: 18px;
+
+}
+.aboutyou label {
+    display: block;
+
+    font-family: FiragGo-Regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    margin-bottom: 5px;
+}
+.class {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 47px;
+border-radius: 10px;
+position: absolute;
+width: 205px;
+height: 47px;
+left: 743px;
+top: 729px;
+
+background: #FFDD04;
+
+   
+    
+    
+}
+
+.sgnp {height: 14px;
+    width: 68px;
+    left: 824px;
+    top: 743px;
+    border-radius: 0 px;
+    padding-top: 13px;
+padding-left: 51px;
+padding-right: 51px;
+padding-bottom: 13px;
+display: flex;
+
+
+
+
+
+    
+}
+ 
